@@ -7,7 +7,7 @@ This is a web based healthcare application developed for spa and beauty services
 **Project Link** - (https://polite-glacier-03ec57400.3.azurestaticapps.net/)
 Project Video Demo Link - 
 
-## Azure Technologies used for the bot
+## Azure Technologies used for the website
 
 - Static Web Apps
 - Health Bot
